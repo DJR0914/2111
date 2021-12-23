@@ -1,0 +1,346 @@
+/* <!-- 固定右定位 --> */
+.A1{
+	position: fixed;
+	right: 0;
+	top: 400px;
+	background-color: #FAFAFA;
+	text-align: center;
+}
+.A1 li{
+	width: 84.67px;
+	height: 92.67px;
+}
+/* 小火箭 */
+#rocket{
+          width: 75px;
+          height: 90px;
+          background-color: #FAFAFA;
+          color: orange;
+          font-size: 30px;
+          text-align: center;
+          position: fixed;
+          right: 10px;
+          bottom: 10px;
+		  line-height: 90px;
+        }
+/* 通用导航 */
+.e1{
+	height: 40px;
+	background-color: #333333;
+}
+.e0{
+	width: 1226px;
+	overflow: hidden;
+}
+.e2 li{
+	float: left;
+	line-height: 40px;
+	padding: 0 5px;
+}
+.e2 p{
+	float: right;
+	color: #999999;
+	line-height: 39px;
+	padding: 0 5px;
+}
+.e2 a{
+	color: #999999;
+	font-size: 12px;
+}
+.e10{
+	background-color: #424242;
+}
+.e3{
+	position: relative;
+}
+.e3 li{
+	float:left;
+	padding: 10px 0 10px;
+	margin-top: 22px;
+	line-height: 55px;
+	margin-right: 20px;
+}
+.e3 p{
+	float:right;
+	padding: 10px 0 10px;
+	margin-top: 22px;
+	line-height: 55px;
+	margin-right: 20px;
+}
+.e4{
+	width: 245px;
+	height: 50px;
+}
+.e5{
+	width: 54px;
+	height: 54px;
+}
+/* 通用底部 */
+.B0{
+	width: 1226px;
+	margin: 0 auto;
+	overflow: hidden;	
+}
+.B-1{
+	background-color: #FAFAFA;
+}
+.B1 li{
+	float: left;
+	width: 244px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+.B2{
+	margin: 40px 100px 40px 0;
+}
+.B3{
+	margin: 40px 0 40px ;
+	text-align: center;
+}
+.B2 li{
+	padding-bottom: 10px;
+}
+.B4{
+	padding: 6px 8px;
+	border: 1px solid orange;
+}
+.B5{
+	margin-left: 30px;
+}
+.g1{
+	height: 120px;
+	width: 100%;
+}
+.g2{
+	background-image: url(../img/小米商城/JPG/375fc7ed8765a8f4c6a3abd91eb838a5.jpg);
+	position: absolute;
+	top: 0;
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 120px;
+	width: 100%;
+	background-position: 50%;
+	background-size: auto 120px;
+}
+.g3{
+	width: 1226px;
+	height: 460px;
+	margin: 40px auto;
+	overflow: hidden;
+	position: relative;
+}
+/* 轮播图 */
+.zuojian,.youjian{
+	position: absolute;
+	top: 50%;
+	color: #B0B0B0;
+	font-size: 50px;
+}
+.zuojian{
+	left: 240px;
+}
+.youjian{
+	right: 10px;
+}
+.diandian{
+	position: absolute;
+	right: -50px;
+	bottom:40px;
+	height: 5px;
+	width: 200px;
+	/* margin-right: -100px; */
+	/* padding-right: 200px; */
+}
+.diandian span{
+	width: 12px;
+	height: 12px;
+	background-color: #333333;
+	display: inline-block;
+	border-radius: 50%;
+	margin-left: 5px;
+}
+.diandian span.on{
+	background-color: #B0B0B0;
+}
+.x1{
+	width: 6300px;
+	overflow: hidden;
+	position: relative;
+}
+.x1 li{
+	float: left;
+}
+/*  */
+.g4{
+	position: absolute;
+	left: 0;
+	top: 0;
+	color: white;
+}
+.g4 li{
+	width: 234px;
+	height: 46px;
+	background:rgba(0,0,0,0.5);
+	text-align: center;
+	line-height: 46px;
+}
+.g0{
+	width: 1226px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.g5 li{
+	float: left;
+	margin-left:16px;
+}
+.g5 td{
+	background-color: #666666;
+	color: white;
+	text-align: center;
+}
+.g6{
+	width: 1240px;
+	height: 340px;
+	/* background-color: #2D9B01; */
+	overflow: hidden;
+}
+.x2{
+	width: 234px;
+	height: 300px;
+	padding-top: 38px;
+	border-top: 2px solid red;
+	background-color: #F1EDED;
+	text-align: center;
+	float: left;
+}
+.x5{
+	display: inline-block;
+	width: 46px;
+	height: 46px;
+	background-color: #333333;
+	color: white;
+	line-height: 46px;
+	text-align: center;
+}
+/* 轮播图2 */
+.x3{
+	width: 978px;
+	height: 340px;
+	overflow: hidden;
+	position: relative;
+	float: left;
+	margin-left: 10px;
+}
+.x4{
+	width: 2940px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.x6{
+	float: left;
+	width: 234px;
+	height: 300px;
+	padding-top: 38px;
+	text-align: center;
+	margin-right: 11px;
+}
+.x10{
+	border-top: 2px solid red;
+}
+.x7{
+	border-top: 2px solid greenyellow;
+}
+.x8{
+	border-top: 2px solid blue;
+}
+.x9{
+	border-top: 2px solid yellow;
+}
+.g7{
+	width: 1240px;
+	height: 628px;
+	margin: 20px auto;
+}
+.g8{
+	width: 1000px;
+	height: 614px;
+	float: left;
+}
+.g8>.box{
+	float: left;
+	width: 250px;
+	text-align: center;
+}
+.g9{
+	width: 240px;
+	float: left;
+}
+.g8 li{
+	float: right;
+	text-align: center;
+	width: 234px;
+	height: 260px;
+	padding: 20px 0;
+	margin: 0 0 14px 14px;
+}
+.h1{
+	margin-top: 30px;
+}
+.h1 li{
+	width: 296px;
+	height: 235px;
+	float: left;
+	margin: 0 10px 14px 0;
+}
+.h1 p{
+	text-align: center;
+	line-height: 50px;
+}
+.u2{
+	position: relative;
+	top: -10px;
+}
+/* 二级菜单1 */
+/* .m0{
+	width: 100%;
+} */
+
+/* 通用css */
+/* 二级菜单1 */
+.j1{
+	position: relative;
+}
+.m0{
+	border-top: 1px solid black;
+	position: absolute;
+	bottom: -400px;
+	left: 90px;
+	z-index: 222;
+}
+.m3{
+	display: none;
+}
+.m2{
+	display: none;
+}
+.m1{
+	display: none;
+}
+.s1{
+	position: absolute;
+	left: 234px;
+	z-index: 222;
+	top: 0;
+}
+.s2{
+	display: none;
+}
+.s3{
+	display: none;
+}
+.s4{
+	display: none;
+}
